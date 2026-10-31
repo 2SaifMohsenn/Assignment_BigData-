@@ -1,0 +1,12 @@
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+data/uci_sms/
+data/sms-spam-collection.zip
+output/*
+!output/.gitkeep
+!output/figures/
+output/figures/*
+!output/figures/.gitkeep
+screenshots/*
+!screenshots/.gitkeep
